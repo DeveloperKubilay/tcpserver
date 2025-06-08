@@ -128,4 +128,6 @@ server.on("connection", (clientToProxySocket) => {
 
 server.on("error", () => {});
 server.on("close", () => {});
-server.listen(PORT);
+server.listen(PORT, () => {
+    console.log(`Server is running on port ${PORT}`);
+})
