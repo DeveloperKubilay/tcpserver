@@ -4,13 +4,13 @@
 
 TCP-Forwarder is a FIRE 🔥 tool that lets you expose your local services to the ENTIRE INTERNET! No more "works on my machine" drama! This lightweight TCP tunneling solution is perfect for sharing your localhost projects, testing webhooks, or showing off your work without deploying ANYWHERE!
 
-### How it works (cuz you're curious)
+### How it works
 
 1. Run the server on a publicly accessible machine
 2. Connect your client from your local machine
 3. BOOM! Your local service is now available through the server! MAGIC! ✨
 
-## Quick Start (Speed run this)
+## Quick Start
 
 ### Server Setup
 ```bash
@@ -62,13 +62,13 @@ Can't be bothered with command-line args? Use these environment variables instea
 
 TCP-Forwarder, yerel servislerini TÜM İNTERNETE açmanı sağlayan EFSANE 🔥 bir araç! Artık "benim bilgisayarımda çalışıyor" draması yok! Bu hafif TCP tünelleme çözümü, localhost projelerini paylaşmak, webhook'ları test etmek veya işini HİÇBİR YERE deploy etmeden göstermek için mükemmel!
 
-### Nasıl çalışıyor (merak ettiğin için)
+### Nasıl çalışıyor
 
 1. Sunucuyu herkese açık bir makinede çalıştır
 2. İstemciyi yerel makinenden bağla
 3. İŞTE BU KADAR! Yerel servisin artık sunucu üzerinden erişilebilir! SİHİR GİBİ! ✨
 
-## Hızlı Başlangıç (Speedrun yap)
+## Hızlı Başlangıç
 
 ### Sunucu Kurulumu
 ```bash
