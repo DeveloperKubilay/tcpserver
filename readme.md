@@ -1,6 +1,6 @@
 # 🔥 TCP-FORWARDER 🔥
 
-![tcp-forwader]()
+![tcp-forwader](https://raw.githubusercontent.com/DeveloperKubilay/tcp-forwarder/refs/heads/main/image.gif)
 
 ## YO! What's this awesomeness? ✨
 
@@ -59,6 +59,8 @@ Can't be bothered with command-line args? Use these environment variables instea
 ---
 
 # 🔥 TCP-FORWARDER 🔥
+
+![tcp-forwader](https://raw.githubusercontent.com/DeveloperKubilay/tcp-forwarder/refs/heads/main/image.gif)
 
 ## HEY! Bu harika şey de ne? ✨
 
